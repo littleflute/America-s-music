@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.8";			
+f[1]	= "01 My City of Ruins.mp3";		
+f[2]	= "02 Love's in Need of Love Today.mp3";		
+f[3]	= "03 Walk On.mp3";		
+f[4]	= "04 There Will Come a Day.mp3";		
+f[5]	= "05 I Won't Back Down.mp3";		
+f[6]	= "06 Hero.mp3";		
+f[7]	= "07 Imagine.mp3";		
+f[8]	= "08 Someday We'll All Be Free.mp3";		
+f[9]	= "09 Wish You Were Here.mp3";		
+f[10]	= "10 New York State of Mind.mp3";		
