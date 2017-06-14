@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.8";			
+f[1]	= "01 I Believe in Love.mp3";		
+f[2]	= "02 Everyday.mp3";		
+f[3]	= "03 Redemption Song.mp3";		
+f[4]	= "04 Hero.mp3";		
+f[5]	= "05 Livin' on a Prayer.mp3";		
+f[6]	= "06 Safe and Sound.mp3";		
+f[7]	= "07 Fragile.mp3";		
+f[8]	= "08 Long Road.mp3";		
+f[9]	= "09 Bridge over Troubled Water.mp3";		
+f[10]	= "10 God Bless America.mp3";		
+f[11]	= "11 America the Beautiful.mp3";		
